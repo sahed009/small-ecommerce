@@ -1,0 +1,696 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 14",
+    "price": 1099.99,
+    "rating": 4.7,
+    "ratingCount": 2500,
+    "category": "iPhone",
+    "image": "https://i.ibb.co.com/s3tDQQ3/iphone14.jpg",
+    "inStock": true,
+    "details": "Latest iPhone model with advanced camera and processor upgrades.",
+    "specifications": [
+      "256GB Storage",
+      "6GB RAM",
+      "48MP Triple Camera",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S23 Ultra",
+    "price": 1199.99,
+    "rating": 4.6,
+    "ratingCount": 3200,
+    "category": "Phones",
+    "image": "https://i.ibb.co.com/bLZcK3h/s23-ultra.jpg",
+    "inStock": true,
+    "details": "Flagship Galaxy model with advanced camera and long battery life.",
+    "specifications": [
+      "512GB Storage",
+      "12GB RAM",
+      "200MP Quad Camera",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 7",
+    "price": 899.99,
+    "rating": 4.3,
+    "ratingCount": 1400,
+    "category": "Phones",
+    "image": "https://i.ibb.co.com/FBYvL6L/pixel7.jpg",
+    "inStock": false,
+    "details": "Improved Google Tensor chip and low-light camera.",
+    "specifications": [
+      "256GB Storage",
+      "8GB RAM",
+      "50MP Dual Camera",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 11",
+    "price": 799.99,
+    "rating": 4.4,
+    "ratingCount": 1100,
+    "category": "Phones",
+    "image": "https://i.ibb.co.com/tX5G6GR/oneplus11.jpg",
+    "inStock": false,
+    "details": "Powerful Snapdragon processor and fast charging.",
+    "specifications": [
+      "256GB Storage",
+      "8GB RAM",
+      "50MP Triple Camera",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Apple Watch Series 8",
+    "price": 399.99,
+    "rating": 4.5,
+    "ratingCount": 2100,
+    "category": "Smart Watches",
+    "image": "https://i.ibb.co.com/b5kNSvm/applewatch8.jpg",
+    "inStock": true,
+    "details": "Enhanced health tracking and improved battery.",
+    "specifications": [
+      "45mm Case",
+      "Blood Oxygen & ECG Monitoring",
+      "GPS + Cellular",
+      "Water Resistant"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy Watch 5",
+    "price": 349.99,
+    "rating": 4.3,
+    "ratingCount": 1800,
+    "category": "Smart Watches",
+    "image": "https://i.ibb.co.com/G7PFLL2/samsung-galaxywatch5.jpg",
+    "inStock": false,
+    "details": "Sleek smartwatch with health and fitness tracking features.",
+    "specifications": [
+      "42mm Case",
+      "ECG & Body Composition Monitoring",
+      "GPS",
+      "Water Resistant"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "MacBook Pro",
+    "price": 1299.99,
+    "rating": 4.8,
+    "ratingCount": 5200,
+    "category": "Macbook",
+    "image": "https://i.ibb.co.com/4TWYQ7z/macbookpro.jpg",
+    "inStock": true,
+    "details": "High-performance laptop with M1 Pro chip.",
+    "specifications": [
+      "512GB SSD",
+      "16GB RAM",
+      "Apple M1 Pro",
+      "14-inch Retina Display"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Sony WH1000XM5 Headphones",
+    "price": 399.99,
+    "rating": 4.4,
+    "ratingCount": 2300,
+    "category": "Accessories",
+    "image": "https://i.ibb.co.com/0qxYr0m/Sony-WH1000-XM5-Headphones.jpg",
+    "inStock": true,
+    "details": "Industry-leading noise cancellation headphones.",
+    "specifications": [
+      "Wireless",
+      "Noise Cancelling",
+      "30 Hours Battery",
+      "Bluetooth 5.2"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Bose QuietComfort 45 Headphones",
+    "price": 329.99,
+    "rating": 4.7,
+    "ratingCount": 1900,
+    "category": "Accessories",
+    "image": "https://i.ibb.co.com/kydMvgZ/Bose-Quiet-Comfort45-Headphones.jpg",
+    "inStock": false,
+    "details": "Comfortable noise-canceling headphones with long battery life.",
+    "specifications": [
+      "Wireless",
+      "Active Noise Cancelling",
+      "24 Hours Battery",
+      "Bluetooth 5.1"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Apple AirPods Max",
+    "price": 549.99,
+    "rating": 4.6,
+    "ratingCount": 1500,
+    "category": "Accessories",
+    "image": "https://i.ibb.co.com/6B1Xrjk/Apple-Air-Pods-Max.jpg",
+    "inStock": true,
+    "details": "Premium over-ear headphones with spatial audio.",
+    "specifications": [
+      "Wireless",
+      "Noise Cancelling",
+      "20 Hours Battery",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Samsung Galaxy Buds Pro",
+    "price": 199.99,
+    "rating": 4.4,
+    "ratingCount": 900,
+    "category": "Accessories",
+    "image": "https://i.ibb.co.com/Xy4r0r6/Samsung-Galaxy-Buds-Pro.jpg",
+    "inStock": true,
+    "details": "High-quality earbuds with active noise cancellation.",
+    "specifications": [
+      "Wireless",
+      "Noise Cancelling",
+      "8 Hours Battery",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "iPhone 14 Pro Max",
+    "price": 1199.99,
+    "rating": 4.8,
+    "ratingCount": 3000,
+    "category": "iPhone",
+    "image": "https://i.ibb.co.com/0jmW1Ky/i-Phone14-Pro-Max.jpg",
+    "inStock": true,
+    "details": "Premium iPhone with ProMotion display and improved battery life.",
+    "specifications": [
+      "512GB Storage",
+      "6GB RAM",
+      "48MP Triple Camera",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "iPhone 13",
+    "price": 799.99,
+    "rating": 4.6,
+    "ratingCount": 1894,
+    "category": "iPhone",
+    "image": "https://i.ibb.co.com/3p64W5f/iPhone13.jpg",
+    "inStock": true,
+    "details": "Powerful performance with A15 Bionic chip and dual-camera system.",
+    "specifications": [
+      "128GB Storage",
+      "4GB RAM",
+      "12MP Dual Camera",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Samsung Galaxy A54",
+    "price": 449.99,
+    "rating": 4.3,
+    "ratingCount": 700,
+    "category": "Phones",
+    "image": "https://i.ibb.co.com/JvdwcbQ/Samsung-Galaxy-A54.jpg",
+    "inStock": false,
+    "details": "Affordable phone with balanced performance and good battery life.",
+    "specifications": [
+      "128GB Storage",
+      "6GB RAM",
+      "50MP Camera",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Fitbit Sense 2",
+    "price": 229.99,
+    "rating": 4.3,
+    "ratingCount": 1200,
+    "category": "Smart Watches",
+    "image": "https://i.ibb.co.com/zsJypKH/Fitbit-Sense2.jpg",
+    "inStock": true,
+    "details": "Advanced health smartwatch with stress management.",
+    "specifications": [
+      "ECG Monitoring",
+      "GPS",
+      "6+ Days Battery",
+      "Water Resistant"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Garmin Venu 2",
+    "price": 299.99,
+    "rating": 4.5,
+    "ratingCount": 1300,
+    "category": "Smart Watches",
+    "image": "https://i.ibb.co.com/LCp41vq/Garmin-Venu2.jpg",
+    "inStock": false,
+    "details": "Smartwatch with fitness tracking and AMOLED display.",
+    "specifications": [
+      "AMOLED Display",
+      "GPS",
+      "11 Days Battery",
+      "Water Resistant"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "MacBook Air M2",
+    "price": 1099.99,
+    "rating": 4.8,
+    "ratingCount": 4200,
+    "category": "Macbook",
+    "image": "https://i.ibb.co.com/t4CV05h/Mac-Book-Air-M2.jpg",
+    "inStock": true,
+    "details": "Lightweight and powerful laptop with M2 chip.",
+    "specifications": [
+      "512GB SSD",
+      "8GB RAM",
+      "Apple M2",
+      "13-inch Retina Display"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Dell XPS 13",
+    "price": 999.99,
+    "rating": 4.6,
+    "ratingCount": 1600,
+    "category": "Laptops",
+    "image": "https://i.ibb.co.com/5j116Zc/Dell-XPS13.jpg",
+    "inStock": true,
+    "details": "Ultra-thin laptop with excellent display quality.",
+    "specifications": [
+      "256GB SSD",
+      "8GB RAM",
+      "Intel i7",
+      "13.4-inch FHD+ Display"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Apple Magic Keyboard",
+    "price": 99.99,
+    "rating": 4.7,
+    "ratingCount": 3000,
+    "category": "Accessories",
+    "image": "https://i.ibb.co.com/vYrz5mt/Apple-Magic-Keyboard.jpg",
+    "inStock": true,
+    "details": "Wireless keyboard with long battery life.",
+    "specifications": [
+      "Wireless",
+      "Bluetooth",
+      "Compatible with macOS and iPadOS"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Canon EOS R5 Camera",
+    "price": 3899.99,
+    "rating": 4.9,
+    "ratingCount": 500,
+    "category": "Cameras",
+    "image": "https://i.ibb.co.com/9Tppn2p/Canon-EOSR5-Camera.jpg",
+    "inStock": true,
+    "details": "High-end mirrorless camera with 8K video capability.",
+    "specifications": [
+      "45MP Sensor",
+      "8K Video",
+      "5-Axis IBIS",
+      "Dual Card Slots"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Nikon Z6 II",
+    "price": 1999.99,
+    "rating": 4.5,
+    "ratingCount": 850,
+    "category": "Cameras",
+    "image": "https://i.ibb.co.com/L8MR8Bw/Nikon-Z6-II.jpg",
+    "inStock": true,
+    "details": "Mirrorless camera with fast autofocus and excellent low-light performance.",
+    "specifications": [
+      "24.5MP Sensor",
+      "4K Video",
+      "5-Axis IBIS",
+      "Dual Card Slots"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Sony Alpha a7 IV",
+    "price": 2499.99,
+    "rating": 4.7,
+    "ratingCount": 700,
+    "category": "Cameras",
+    "image": "https://i.ibb.co.com/WcpKMjH/Sony-Alphaa7-IV.jpg",
+    "inStock": false,
+    "details": "Full-frame mirrorless with advanced imaging features.",
+    "specifications": [
+      "33MP Sensor",
+      "4K Video",
+      "5-Axis IBIS",
+      "Dual Card Slots"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "GoPro HERO11",
+    "price": 499.99,
+    "rating": 4.6,
+    "ratingCount": 2500,
+    "category": "Cameras",
+    "image": "https://i.ibb.co.com/7zDfLS7/Go-Pro-HERO11.jpg",
+    "inStock": true,
+    "details": "Versatile action camera with waterproof capability and HyperSmooth stabilization.",
+    "specifications": [
+      "5.3K Video",
+      "23MP Photos",
+      "Waterproof",
+      "HyperSmooth 4.0"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Razer Blade 15 Gaming Laptop",
+    "price": 2199.99,
+    "rating": 4.5,
+    "ratingCount": 1100,
+    "category": "Laptops",
+    "image": "https://i.ibb.co.com/fQWkJ7g/Razer-Blade15-Gaming-Laptop.jpg",
+    "inStock": true,
+    "details": "High-performance gaming laptop with powerful GPU.",
+    "specifications": ["1TB SSD", "16GB RAM", "RTX 3080", "15.6-inch FHD 144Hz"]
+  },
+  {
+    "id": 25,
+    "name": "Asus ROG Zephyrus G14",
+    "price": 1499.99,
+    "rating": 4.6,
+    "ratingCount": 900,
+    "category": "Laptops",
+    "image": "https://i.ibb.co.com/jggvRsx/Asus-ROGZephyrus-G14.jpg",
+    "inStock": true,
+    "details": "Compact gaming laptop with excellent battery life.",
+    "specifications": ["512GB SSD", "16GB RAM", "RTX 3060", "14-inch QHD 120Hz"]
+  },
+  {
+    "id": 26,
+    "name": "DJI Mavic Air 2 Drone",
+    "price": 799.99,
+    "rating": 4.8,
+    "ratingCount": 1300,
+    "category": "Drones",
+    "image": "https://i.ibb.co.com/fv7sSrM/DJIMavic-Air2-Drone.jpg",
+    "inStock": true,
+    "details": "Compact drone with 4K camera and obstacle sensors.",
+    "specifications": [
+      "4K Video",
+      "48MP Photos",
+      "34 Min Flight Time",
+      "Obstacle Avoidance"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "DJI Mini 3 Pro",
+    "price": 749.99,
+    "rating": 4.7,
+    "ratingCount": 950,
+    "category": "Drones",
+    "image": "https://i.ibb.co.com/Pz3JRwb/DJIMini3-Pro.jpg",
+    "inStock": true,
+    "details": "Lightweight drone with 4K HDR video and extended battery life.",
+    "specifications": [
+      "4K HDR Video",
+      "34 Min Flight Time",
+      "Obstacle Avoidance",
+      "249g Weight"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Microsoft Surface Laptop 5",
+    "price": 999.99,
+    "rating": 4.3,
+    "ratingCount": 600,
+    "category": "Laptops",
+    "image": "https://i.ibb.co.com/Jms0nGM/Microsoft-Surface-Laptop5.jpg",
+    "inStock": true,
+    "details": "Sleek laptop with excellent touchscreen.",
+    "specifications": [
+      "256GB SSD",
+      "8GB RAM",
+      "Intel i5",
+      "13.5-inch PixelSense"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "iPad Pro 129",
+    "price": 1099.99,
+    "rating": 4.8,
+    "ratingCount": 2000,
+    "category": "Tablets",
+    "image": "https://i.ibb.co.com/z5nM91M/i-Pad-Pro12-9.jpg",
+    "inStock": true,
+    "details": "Powerful iPad with Apple Pencil support.",
+    "specifications": ["256GB Storage", "M1 Chip", "Liquid Retina XDR", "5G"]
+  },
+  {
+    "id": 30,
+    "name": "Samsung Galaxy Tab S8",
+    "price": 799.99,
+    "rating": 4.5,
+    "ratingCount": 1000,
+    "category": "Tablets",
+    "image": "https://i.ibb.co.com/qMDHjRh/Samsung-Galaxy-Tab-S8.jpg",
+    "inStock": false,
+    "details": "High-performance Android tablet with S Pen.",
+    "specifications": [
+      "256GB Storage",
+      "8GB RAM",
+      "11-inch LCD",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "MacBook Air M1",
+    "price": 999.99,
+    "rating": 4.8,
+    "ratingCount": 5500,
+    "category": "Macbook",
+    "image": "https://i.ibb.co.com/3WRVbNp/Mac-Book-Air-M1.jpg",
+    "inStock": true,
+    "details": "Lightweight laptop with the powerful Apple M1 chip, perfect for everyday tasks.",
+    "specifications": [
+      "256GB SSD",
+      "8GB RAM",
+      "13.3-inch Retina Display",
+      "Up to 18 hours battery"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "MacBook Pro 14 M2",
+    "price": 1999.99,
+    "rating": 4.9,
+    "ratingCount": 2100,
+    "category": "Macbook",
+    "image": "https://i.ibb.co.com/df7MfzJ/Mac-Book-Pro14-M2.jpg",
+    "inStock": true,
+    "details": "Powerful MacBook with M2 Pro chip for creative and professional workloads.",
+    "specifications": [
+      "512GB SSD",
+      "16GB RAM",
+      "14.2-inch XDR Display",
+      "Up to 17 hours battery"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Dell XPS 15",
+    "price": 1099.99,
+    "rating": 4.6,
+    "ratingCount": 1600,
+    "category": "Laptops",
+    "image": "https://i.ibb.co.com/5nM0Rjp/Dell-XPS15.jpg",
+    "inStock": true,
+    "details": "Ultrabook with stunning display and compact design, ideal for productivity.",
+    "specifications": [
+      "512GB SSD",
+      "16GB RAM",
+      "15.6-inch FHD+",
+      "Intel i7 13th Gen"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "HP Spectre x360",
+    "price": 1299.99,
+    "rating": 4.7,
+    "ratingCount": 1400,
+    "category": "Laptops",
+    "image": "https://i.ibb.co.com/4t6F8k8/HPSpectrex360.jpg",
+    "inStock": true,
+    "details": "Convertible laptop with premium build, ideal for creatives and professionals.",
+    "specifications": ["1TB SSD", "16GB RAM", "13.3-inch 4K UHD", "Intel i7"]
+  },
+  {
+    "id": 35,
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "price": 1499.99,
+    "rating": 4.8,
+    "ratingCount": 1200,
+    "category": "Laptops",
+    "image": "https://i.ibb.co.com/PCvGGKC/Lenovo-Think-Pad-X1-Carbon.jpg",
+    "inStock": false,
+    "details": "Business laptop known for durability, performance, and sleek design.",
+    "specifications": [
+      "512GB SSD",
+      "16GB RAM",
+      "14-inch FHD",
+      "Intel i7 10th Gen"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "iPhone 15",
+    "price": 1699.99,
+    "rating": 4.9,
+    "ratingCount": 900,
+    "category": "iPhone",
+    "image": "https://i.ibb.co.com/KwSQfmN/iphone-15.jpg",
+    "inStock": true,
+    "details": "The most advanced iPhone with a new ultra-performance chipset and design.",
+    "specifications": [
+      "1TB Storage",
+      "12GB RAM",
+      "64MP Quad Camera",
+      "A18 Ultra Chip",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "iPhone SE",
+    "price": 599.99,
+    "rating": 4.5,
+    "ratingCount": 1300,
+    "category": "iPhone",
+    "image": "https://i.ibb.co.com/5LtRn9q/iphone-se.jpg",
+    "inStock": true,
+    "details": "Compact and affordable iPhone with the power of the A15 Bionic chip.",
+    "specifications": [
+      "256GB Storage",
+      "4GB RAM",
+      "12MP Camera",
+      "A15 Bionic Chip"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "DJI Air 3",
+    "price": 999.99,
+    "rating": 4.8,
+    "ratingCount": 1100,
+    "category": "Drones",
+    "image": "https://i.ibb.co.com/QF9Zrr2/dji-air-3.jpg",
+    "inStock": true,
+    "details": "Compact drone with dual cameras and up to 46 minutes of flight time.",
+    "specifications": [
+      "48MP Dual Camera",
+      "4K Video Recording",
+      "Up to 46 Minutes Flight Time",
+      "Obstacle Avoidance"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Autel Robotics EVO Lite Plus",
+    "price": 1199.99,
+    "rating": 4.7,
+    "ratingCount": 800,
+    "category": "Drones",
+    "image": "https://i.ibb.co.com/Ytg8Q8s/autel-robotics-evo-lite.jpg",
+    "inStock": true,
+    "details": "The EVO Lite+ offers a 50MP camera and up to 40 minutes of flight time.",
+    "specifications": [
+      "50MP Camera",
+      "8K Video Recording",
+      "Up to 40 Minutes Flight Time",
+      "Obstacle Avoidance"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Samsung Galaxy Tab S9 Ultra",
+    "price": 1399.99,
+    "rating": 4.8,
+    "ratingCount": 1500,
+    "category": "Tablets",
+    "image": "https://i.ibb.co.com/CBRL8vj/samsung-tab-s9-ultra.jpg",
+    "inStock": true,
+    "details": "Premium tablet with stunning display and performance, perfect for productivity and media.",
+    "specifications": [
+      "512GB Storage",
+      "12GB RAM",
+      "12.9-inch Super AMOLED Display",
+      "Snapdragon 8 Gen 2"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Microsoft Surface Pro 10",
+    "price": 1499.99,
+    "rating": 4.7,
+    "ratingCount": 1000,
+    "category": "Tablets",
+    "image": "https://i.ibb.co.com/q0sLR68/microsoft-surface-pro-10.jpg",
+    "inStock": true,
+    "details": "The Surface Pro 10 is a versatile tablet with laptop power, perfect for work and play.",
+    "specifications": [
+      "512GB Storage",
+      "16GB RAM",
+      "12.3-inch PixelSense Display",
+      "Intel Core i7"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Lenovo Tab P12 Pro",
+    "price": 899.99,
+    "rating": 4.6,
+    "ratingCount": 850,
+    "category": "Tablets",
+    "image": "https://i.ibb.co.com/SPB4W6J/lenovo-tab-p12-pro.jpg",
+    "inStock": true,
+    "details": "Powerful tablet with OLED display and great for multimedia consumption.",
+    "specifications": [
+      "128GB Storage",
+      "8GB RAM",
+      "12.6-inch OLED Display",
+      "Snapdragon 870"
+    ]
+  }
+]
